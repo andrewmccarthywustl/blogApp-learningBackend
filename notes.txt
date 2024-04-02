@@ -1,0 +1,7 @@
+background - eaeaea
+nav - 252a34
+nav a - ffffff
+title - ff2e63
+post title - 08d9d6
+post subtitle -  252a34
+post text - 000000
